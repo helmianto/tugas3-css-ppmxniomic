@@ -1,0 +1,23 @@
+.p_pertama {
+    background-color: orange;
+}
+
+.p_kedua {
+    background-color: blue;
+    color: white;
+}
+
+.p_ketiga {
+    border-radius: 5px;
+    border-style: groove;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    word-spacing: 1rem;
+}
+
+.p_keempat {
+    background-color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    line-height: 1.2;
+}
